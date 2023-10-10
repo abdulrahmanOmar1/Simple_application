@@ -19,7 +19,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         edtname=findViewById(R.id.edtname);
         edtpass=findViewById(R.id.edtpass);
-
+    //test command for github
     }
 
     public void btnOnclick(View view) {
