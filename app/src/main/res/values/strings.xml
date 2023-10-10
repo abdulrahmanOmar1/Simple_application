@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Applicationy1</string>
+    <string name="hello_to_my_andriod">Hello to my andriod !</string>
+    <string name="enter_your_name">Enter your name :</string>
+    <string name="sumbit">Sumbit</string>
+    <string name="edtname">edtName</string>
+    <string name="password">password :</string>
+</resources>
